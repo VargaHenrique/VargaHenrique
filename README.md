@@ -7,7 +7,7 @@
   <li>Likes to play bass, watch movies and series, and go to the gym  🎸</li>
 </ul>
 
-<h1>Github Stats</h1>
+<h1>Github Stats ⚡</h1>
 <div>
 <a href="https://github.com/VargaHenrique">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=VargaHenrique&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
@@ -24,7 +24,7 @@
 <img align="center" alt="Henrique.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/> 
 </div>
 
-  <h1>Reach me</h1>
+  <h1>Reach me 📫</h1>
 
 <div>
 </a>
