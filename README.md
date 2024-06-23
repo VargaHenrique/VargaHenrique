@@ -33,5 +33,3 @@
 <a href="https://www.linkedin.com/in/henrique-gomes-de-varga-38969124a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 </br>
-
-![Snake animation](https://github.com/VargaHenrique/VargaHenrique/blob/output/github-contribution-grid-snake.svg)
