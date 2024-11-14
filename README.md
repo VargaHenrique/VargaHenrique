@@ -3,8 +3,8 @@
 
 <ul>
   <li>Systems analysis and development student in Unisinos University - São Leopoldo</li>
-  <li>Studying Sytem development in Senac RS</li> 
-  <li>Likes to play bass, watch movies and series, and go to the gym  🎸</li>
+  <li>Systems Development Technician - Senac RS</li> 
+  <li>Likes to play bass 🎸, watch movies and series, and go to the gym</li>
 </ul>
 
 <h1>Github Stats ⚡</h1>
