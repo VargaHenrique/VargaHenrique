@@ -1,10 +1,11 @@
-## Hi there, I'm Henrique 🌐
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF1493&width=435&lines=I'M+HENRIQUE+VARGA;Systems+Development+Technician;I'm+from+Brazil)](https://git.io/typing-svg)
 
 
 <ul>
-  <li>Systems analysis and development student in Unisinos University - São Leopoldo</li>
-  <li>Systems Development Technician - Senac RS</li> 
-  <li>Likes to play bass 🎸, watch movies and series, and go to the gym</li>
+  <li>Systems analysis and development Technician - UNISINOS University</li>
+  <li>Systems Development Technician - Senac RS</li>
+  <li>Java Programmer - Geração Caldeira 2024/Intituto Caldeira</li>
+  <li>Likes to play bass 🎸, watch movies and series, and listen to music</li>
 </ul>
 
 <h1>Github Stats ⚡</h1>
