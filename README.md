@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=008000&width=435&lines=I'M+HENRIQUE+VARGA;Systems+Development+Technician;I'm+from+Brazil)](https://git.io/typing-svg)
 
 <ul>
-  <li>Systems analysis and development Technician - UNISINOS University</li>
+  <li>Systems Analysis and Development Technician - UNISINOS University</li>
   <li>Systems Development Technician - Senac RS</li>
-  <li>Java Programmer - Geração Caldeira 2024/Intituto Caldeira</li>
+  <li>Java Developer - Geração Caldeira 2024 / Intituto Caldeira</li>
   <li>Likes to play bass 🎸, watch movies and series, and listen to music</li>
 </ul>
 
